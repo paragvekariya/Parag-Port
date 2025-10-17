@@ -18,6 +18,7 @@ html {
     font-size: inherit;
     color: inherit;
     word-break: normal; }
+
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
@@ -1267,7 +1268,6 @@ element.style {
     right: 0;
     width: 34px;
     height: 34px;
-    /* content: ''; */
     background: #ffbd39;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -1410,6 +1410,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
     background-repeat: no-repeat;
     background-position: center center;
 }
+
 @media (max-width: 767.98px) {
     .ftco-section {
         padding: 6em 0;
@@ -1598,5 +1599,6 @@ ol, ul, dl {
     padding: 0;
 
 }
+
 
 
