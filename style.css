@@ -1263,7 +1263,6 @@ element.style {
   border-radius: 2px;
   }
   .progress-bar:after {
-    /* position: absolute; */
     top: -2px;
     right: 0;
     width: 34px;
@@ -1342,6 +1341,7 @@ element.style {
     background: rgba(0, 0, 0, 0.63);
     transition: 0.3s;
 }
+
 *, ::before, ::after {
     box-sizing: border-box;
 }
@@ -1595,10 +1595,12 @@ ol, ul, dl {
 .block-23 ul li span {
     color: rgba(255, 255, 255, 0.7);
 }
+
 .block-23 ul {
     padding: 0;
 
 }
+
 
 
 
