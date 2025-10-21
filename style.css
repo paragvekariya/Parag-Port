@@ -71,7 +71,8 @@ justify-content: space-between !important;
   position: relative;
   width: 100%;
   padding-right: 15px;
-  padding-left: 15px; }
+  padding-left: 15px;
+}
   [tabindex="-1"]:focus {
   outline: 0 !important; }
 
@@ -99,7 +100,8 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   margin-top: 0;
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem;
+}
   #about-section p {
   font-size: 16px;    
   line-height: 1.8;    
@@ -1600,6 +1602,7 @@ ol, ul, dl {
     padding: 0;
 
 }
+
 
 
 
