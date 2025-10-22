@@ -14,6 +14,7 @@ html {
   display: block;
   font-size: 87.5%;
   color: #212529; }
+
   pre code {
     font-size: inherit;
     color: inherit;
@@ -44,7 +45,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     font-weight: 600;
 }
 
-.hero-section{
+.hero-section {
 padding: 100px 0 0 0;
 justify-content: space-between !important;
 
@@ -81,12 +82,14 @@ justify-content: space-between !important;
 .justify-content-center {
   -webkit-box-pack: center !important;
   -ms-flex-pack: center !important;
-  justify-content: center !important; }
+  justify-content: center !important;
+}
 
 .align-items-center {
   -webkit-box-align: center !important;
   -ms-flex-align: center !important;
-  align-items: center !important; }
+  align-items: center !important;
+}
 
 hr {
   -webkit-box-sizing: content-box;
@@ -1602,6 +1605,7 @@ ol, ul, dl {
     padding: 0;
 
 }
+
 
 
 
